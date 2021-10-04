@@ -1,5 +1,7 @@
 # ImageLab
 
+trigger sonar lint
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Gitter](https://badges.gitter.im/scorelab/ImageLab.svg)](https://gitter.im/scorelab/ImageLab?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![GitHub issues by-label][hacktoberfest-badge]][hacktoberfest-link]
