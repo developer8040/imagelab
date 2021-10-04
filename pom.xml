@@ -17,6 +17,8 @@
         <maven-surefire-plugin.version>2.22.0</maven-surefire-plugin.version>
         <sonar.organization>developer8040</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <maven.test.skip>true</maven.test.skip>
+        <checkstyle.skip>true</checkstyle.skip>
     </properties>
     <dependencies>
         <!-- OpenCV 3 -->
